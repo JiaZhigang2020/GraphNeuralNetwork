@@ -1,4 +1,7 @@
 # GraphNeuralNetwork
+
+新的复现工作已经上传，更少的代码量，更清晰的结构，更方便的用法： https://github.com/JiaZhigang2020/GCN-new
+
 这项工作是对NPI-GNN工作的复现
 NPI-GNN项目地址：https://github.com/AshuiRUA/NPI-GNN
 NPI-GNN论文Pubmed链接：https://pubmed.ncbi.nlm.nih.gov/33822882/
